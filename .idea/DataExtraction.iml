@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 3.5.1 (~/anaconda/bin/python)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Grouping" />
+    <orderEntry type="module" module-name="Digit" />
+    <orderEntry type="module" module-name="DM" />
+    <orderEntry type="module" module-name="AML" />
+    <orderEntry type="module" module-name="ResultAnalysis" />
+    <orderEntry type="module" module-name="BoschKaggle" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>

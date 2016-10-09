@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AML/.idea/AML.iml" filepath="$PROJECT_DIR$/../AML/.idea/AML.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../BoschKaggle/.idea/BoschKaggle.iml" filepath="$PROJECT_DIR$/../BoschKaggle/.idea/BoschKaggle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Classifiers/.idea/Classifiers.iml" filepath="$PROJECT_DIR$/../Classifiers/.idea/Classifiers.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Dirty/DM/.idea/DM.iml" filepath="$USER_HOME$/Documents/Dirty/DM/.idea/DM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DataExtraction.iml" filepath="$PROJECT_DIR$/.idea/DataExtraction.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Dirty/Digit/.idea/Digit.iml" filepath="$USER_HOME$/Documents/Dirty/Digit/.idea/Digit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Grouping/.idea/Grouping.iml" filepath="$PROJECT_DIR$/../Grouping/.idea/Grouping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../IrisFlowers/.idea/IrisFlowers.iml" filepath="$PROJECT_DIR$/../IrisFlowers/.idea/IrisFlowers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ResultAnalysis/.idea/ResultAnalysis.iml" filepath="$PROJECT_DIR$/../ResultAnalysis/.idea/ResultAnalysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Scratch/.idea/Scratch.iml" filepath="$PROJECT_DIR$/../Scratch/.idea/Scratch.iml" />
+    </modules>
+  </component>
+</project>
